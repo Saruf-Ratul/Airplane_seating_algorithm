@@ -15,4 +15,4 @@ Input to the program will be:
 • A 2D array that represents the rows and columns [[3,2],[4,3],[2,3],[3,4]]
 • Number of passengers waiting in queue. {30}
 
-<img src="/img/Airplane.png" width="128"/>
+<img src="/img/Airplane.png" width="280"/>
